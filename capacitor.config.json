@@ -1,0 +1,9 @@
+{
+  "appId": "com.vitorlemes.estoqueauto",
+  "appName": "Estoque Auto UDI",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
